@@ -1,0 +1,43 @@
+# Mapping of crypto symbols to their CoinGecko names
+symbol_to_name = {
+    'btc': 'bitcoin',
+    'eth': 'ethereum',
+    'ada': 'cardano',
+    'xrp': 'ripple',
+    'doge': 'dogecoin',
+    'sol': 'solana',
+    'ltc': 'litecoin',
+    'bch': 'bitcoin-cash',
+    'dot': 'polkadot',
+    'shib': 'shiba-inu',
+    'avax': 'avalanche-2',
+    'link': 'chainlink',
+    'matic': 'polygon',
+    'algo': 'algorand',
+    'trx': 'tron',
+    'uni': 'uniswap',
+    'bnb': 'binancecoin',
+    'ftm': 'fantom',
+    'vet': 'vechain',
+    'xlm': 'stellar',
+    'zec': 'zcash',
+    'neo': 'neo',
+    'etc': 'ethereum-classic',
+    'usdt': 'tether',  # Stablecoin
+    'usdc': 'usd-coin',  # Stablecoin
+    'dai': 'dai',  # Stablecoin
+    'gala': 'gala',
+    'chz': 'chiliz',
+    'icp': 'internet-computer',
+    'axs': 'axie-infinity',
+    'ftt': 'ftx-token',
+    'egld': 'elrond',
+    'celo': 'celo',
+    'xmr': 'monero',
+    'dash': 'dash',
+    'grt': 'the-graph',
+    'enj': 'enjincoin',
+    '1inch': '1inch',
+    'zrx': '0x',
+    'luna': 'terra-luna',  # Terra Classic (LUNA)
+}
